@@ -1,0 +1,4 @@
+*.o
+*.vcd
+work*.cf
+multiplier_tb
